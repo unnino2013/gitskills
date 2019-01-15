@@ -1,3 +1,4 @@
 # gitskills
 
 hello dev!
+conflictB.
