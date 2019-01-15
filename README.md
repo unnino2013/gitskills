@@ -1,4 +1,5 @@
 # gitskills
 
 hello dev!
-conflictB.
+conflictA.
+
